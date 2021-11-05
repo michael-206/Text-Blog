@@ -3,4 +3,4 @@
 This Flask webapp is a text chatting app
 
 made by:
-Michael-206 and vova.veugandt@gmail.com
+michaelmoo206@gmail.com and vova.veugandt@gmail.com
